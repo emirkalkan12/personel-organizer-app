@@ -1,4 +1,4 @@
-Personal Organizer Application
+#Personal Organizer Application
 The user needs a personal organizer application which can be used by multiple users. The application includes a phonebook, notes, personal information, reminders on the calendar and a salary calculator. Hold data for each module in a separate CSV file but do not forget to link a phone record and its owner who is stored in the user file.
 
 User Management
